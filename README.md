@@ -9,10 +9,10 @@ list using Spring boot, thymeleaf and MySQL.
 ## Tools and Technologies 
 1.Java 1.8  
 2.Spring boot     
-3.MySQL 
-4.HTML
-5.CSS
-6.BootStrap
+3.MySQL      
+4.HTML     
+5.CSS    
+6.BootStrap     
 6.JPA  
 7.thtmeleaf
 
